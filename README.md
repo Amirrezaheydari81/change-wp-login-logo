@@ -61,7 +61,21 @@
 <span><u>Changing the title of the plugin and the text of the admin panel to the name of logo settings</u><span>
 </li>
 </ul>
+
 <br/>
+
+<ul>
+<b>2.1.1</b>
+<li>
+<span><u>add font Settings plugin page</u><span>
+<span><u>rtl text  Settings page</u><span>
+<span><u>delete fav icon</u><span>
+<span><u>add icon nav wp in base64</u><span>
+</li>
+</ul>
+
+<br/>
+
 <hr/>
 <ul><h4>&#128150; Developers</h4>
 <li>Amirreza Heydari | <a href="https://instagram.com/amirrezaheydariinsta">instagram</a></li>

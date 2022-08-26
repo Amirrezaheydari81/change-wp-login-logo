@@ -34,6 +34,11 @@ Then enter the plugins section and select the activation option.
 * Removing the fonts section due to the large volume
 = 2.0.1 =
 * Changing the title of the plugin and the text of the admin panel to the name of logo settings
+= 2.1.1 =
+* add font Settings plugin page
+* rtl text  Settings page
+* delete fav icon
+* add icon nav wp in base64
 
 == Upgrade Notice ==
 = 1.0 =
@@ -46,3 +51,8 @@ Added the ability to adjust Persian fonts and change the font size.
 Removing the fonts section due to the large volume
 = 2.0.1 =
 Changing the title of the plugin and the text of the admin panel to the name of logo settings
+= 2.1.1 =
+add font Settings plugin page
+rtl text  Settings page
+delete fav icon
+add icon nav wp in base64
