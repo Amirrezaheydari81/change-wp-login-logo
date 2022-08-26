@@ -1,0 +1,15 @@
+/*
+Developer: AriaWP
+URL: https://ariawp.com
+*/
+
+@font-face {
+  font-family: 'BFerdosi';
+  src: url('../fonts/BFerdosi.eot?#') format('eot'),  /* IE6–8 */
+       url('../fonts/BFerdosi.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../fonts/BFerdosi.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+body{
+	font-family: "BFerdosi", tahoma;
+}

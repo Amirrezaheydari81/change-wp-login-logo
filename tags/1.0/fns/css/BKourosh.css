@@ -1,0 +1,15 @@
+/*
+Developer: AriaWP
+URL: https://ariawp.com
+*/
+
+@font-face {
+  font-family: 'BKourosh';
+  src: url('../fonts/BKourosh.eot?#') format('eot'),  /* IE6–8 */
+       url('../fonts/BKourosh.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../fonts/BKourosh.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+body{
+	font-family: "BKourosh", tahoma;
+}

@@ -1,0 +1,15 @@
+/*
+Developer: AriaWP
+URL: https://ariawp.com
+*/
+
+@font-face {
+  font-family: 'BFarnaz';
+  src: url('../fonts/BFarnaz.eot?#') format('eot'),  /* IE6–8 */
+       url('../fonts/BFarnaz.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../fonts/BFarnaz.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+body{
+	font-family: "BFarnaz", tahoma;
+}

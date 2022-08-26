@@ -1,0 +1,15 @@
+/*
+Developer: AriaWP
+URL: https://ariawp.com
+*/
+
+@font-face {
+  font-family: 'BHamid';
+  src: url('../fonts/BHamid.eot?#') format('eot'),  /* IE6–8 */
+       url('../fonts/BHamid.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../fonts/BHamid.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+body{
+	font-family: "BHamid", tahoma;
+}
