@@ -1,6 +1,7 @@
 <h1>Change Wordpress Login Logo &#11088;</h1>
 <span>With the help of this plugin, you can change the logo of the WordPress admin section, this plugin makes your work very easy and you can do it with a few clicks.
 </span>
+<p>View the plugin in the WordPress repository &#128293;<a href="https://wordpress.org/plugins/change-logo-login/">click here</a></p>
 <hr/>
 <h3>&#11093; Banner Plugin</h3>
 <img src="assets\banner-772×250.png">
@@ -61,6 +62,7 @@
 </li>
 </ul>
 <br/>
+<hr/>
 <ul><h4>&#128150; Developers</h4>
 <li>Amirreza Heydari | <a href="https://instagram.com/amirrezaheydariinsta">instagram</a></li>
 <li>Your place is empty here</li>
