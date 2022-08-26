@@ -66,12 +66,10 @@
 
 <ul>
 <b>2.1.1</b>
-<li>
-<span><u>add font Settings plugin page</u><span>
-<span><u>rtl text  Settings page</u><span>
-<span><u>delete fav icon</u><span>
-<span><u>add icon nav wp in base64</u><span>
-</li>
+<li><span><u>add font Settings plugin page</u><span></li>
+<li><span><u>rtl text  Settings page</u><span></li>
+<li><span><u>delete fav icon</u><span></li>
+<li><span><u>add icon nav wp in base64</u><span></li>
 </ul>
 
 <br/>
